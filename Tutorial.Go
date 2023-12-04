@@ -4,7 +4,8 @@ import (
 	"fmt"
 )
 
-// global variable type shi, make sure to specify the variable type shi
+//To run a Go program, go into your terminal and type "go run <the name of your file.go>" example: for this Tutorial.Go, we would type: "go run Tutorial.Go"
+// This is a global variable, make sure to specify the variable type.
 var num1 int = 5
 
 var num2 int = 8
